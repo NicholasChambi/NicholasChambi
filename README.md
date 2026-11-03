@@ -1,4 +1,4 @@
-## Hi there, My name is Nicholas Chambi and welcome to my Profile
+## Hi there, My name is Nicholas Chambi and Welcome to my Profile
 
 ## About me
 
@@ -10,7 +10,7 @@
 ## Skills 
 
 | What | Level | Description |
-| ... | ... |
+| --- | --- |
 | Python | Intermediate | Python is my strong suit as a data analyst and also currently in use for my projects. |
 | C | Intermediate | I have a good understanding and knowledge on how to solve problems in C and also used it in University for coursework. |
 | HTML | Intermediate | I also have a pretty good understanding in HTML as it is being used for my websites' structure |
